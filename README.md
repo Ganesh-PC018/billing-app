@@ -207,12 +207,3 @@ This project is licensed under the [MIT License](LICENSE)
 
 ```
 
----
-
-Would you like me to:
-- Add Swagger UI for APIs?
-- Provide a `.env.example` file?
-- Set up Docker + Docker Compose for easier running?
-
-Let me know and I’ll help with the next steps too!
-```
