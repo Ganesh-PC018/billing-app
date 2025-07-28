@@ -1,8 +1,3 @@
-Got it! Here's a **single complete `README.md` file** for your **Billing App**, step-by-step, in **one place**, no confusion.
-
----
-
-### ✅ Just copy and paste this into your project as `README.md` (in root folder):
 
 ```markdown
 # 🧾 Billing App — Full Stack Application
