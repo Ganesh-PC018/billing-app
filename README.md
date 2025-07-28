@@ -2,7 +2,8 @@
 ```markdown
 # 🧾 Billing App — Full Stack Application
 
-Welcome to the **Billing App** developed by **Ganesh Mane** — a powerful full-stack web application for managing bills, products, categories, image uploads, and OTP-based authentication using **Spring Boot** and **React + Vite**.
+Welcome to the **Billing App** developed by **Ganesh Mane** — a powerful full-stack web application for managing bills, products,
+categories, image uploads, and OTP-based authentication using **Spring Boot** and **React + Vite**.
 
 ---
 
@@ -50,9 +51,13 @@ Welcome to the **Billing App** developed by **Ganesh Mane** — a powerful full-
 ```
 
 /billing-app/
+
 ├── backend/        → Spring Boot backend
+
 ├── frontend/       → React + Vite frontend
+
 └── README.md       → This file
+
 
 ````
 
